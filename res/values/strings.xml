@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Farm To Table</string>
+	<string name="legal">Legal Notices</string>
+	<string name="no_maps">Google Maps V2 not available!</string>
+	<string name="normal">Normal</string>
+	<string name="hybrid">Hybrid</string>
+	<string name="satellite">Satellite</string>
+	<string name="terrain">Terrain</string>
+	<string name="hlp">Help</string>
+	<string name="about">About</string>
+	<string name="menu_settings">Settings</string>
+	<string name="fmarkets">Find Farmers Markets</string>
+	<string name="oreatuarants">Finds Organic Restaurants</string>
+	<string name="vreatuarants">Finds Vegan Restaurants</string>
+	<string name="ofarms">Finds Organic Farms/Farm Stands</string>
+	<string name="currentlyopen">Currently Open</string>
+	<string name="preftitle">Options</string>
+	<string name="prefdesc">Select items to display</string>
+	<string name="fmarketsummary">Shopping Smarter and Local</string>
+	<string name="orestaurantsummary">Eating Organic</string>
+	<string name="vrestaurantsummary">Vegan Choices </string>
+	<string name="ofarmsummary">Shop for it at the source </string>
+	<string name="currentlyopensummary">Select to see currently open options</string>
+	<string name="keepscreenon_title">Keep Screen On</string>
+	<string name="settings">Settings</string>
+	<string name="icon">icon</string>
+	<string name="delete">delete</string>
+	<string name="on_upgrade_error">This should not be called</string>
+	<string name="directions">   Get Directions    </string>
+	<string name="moreinfo">    More Information   </string>
+</resources>

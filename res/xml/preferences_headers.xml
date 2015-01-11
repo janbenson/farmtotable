@@ -1,0 +1,13 @@
+
+   <preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<header
+		android:fragment="com.jbsoft.fttMapslocate.StockPreferenceFragment"
+		android:summary="@string/prefdesc"
+		android:title="@string/preftitle">
+		<extra
+			android:name="resource"
+			android:value="pref_display"/>
+	</header>
+
+</preference-headers>
